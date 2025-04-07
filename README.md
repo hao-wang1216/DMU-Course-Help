@@ -5,7 +5,7 @@
 [![pulls](https://img.shields.io/github/issues-pr-closed-raw/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)](https://github.com/Chi-Kai/DMU-cs-course/pulls)
 ![size](https://img.shields.io/github/repo-size/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)
 
-大连海事大学信息学院课程资料。如有任何问题及开源贡献想法联系QQ：1497081944
+大连海事大学信息学院课程资料。#如有任何问题及开源贡献想法联系QQ：1497081944#
 
 仓库为复制往届学长，并增添新的内容，本仓库在大学本科期间由本人维护，欢迎学弟学妹继承
 
