@@ -1,0 +1,5 @@
+- 所有专业考的一张卷子，考的基本都是背的
+- 背那个PDF提纲
+- 大题就他讲的
+- 这门课就是背诵
+- huggingface：[Ichont/xinxixitong at main](https://huggingface.co/datasets/Ichont/xinxixitong/tree/main)
