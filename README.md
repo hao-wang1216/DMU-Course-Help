@@ -2,8 +2,8 @@
 
 [![](https://img.shields.io/github/stars/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-HelpT/stargazers)
 [![](https://img.shields.io/github/forks/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/network/members)
-[![](https://img.shields.io/github/contributors/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/graphs/contributors)
 ![](https://img.shields.io/github/repo-size/ichont/DMU-Course-Help.svg?style=flat)
+[![](https://img.shields.io/github/contributors/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/graphs/contributors)
 [![pulls](https://img.shields.io/github/issues-pr-closed-raw/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/pulls)
 
 大连海事大学信息学院课程资料。**如有任何问题或者深入交流讨论及开源贡献(不仅局限于信息学院)  请联系QQ：1497081944**
