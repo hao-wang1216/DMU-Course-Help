@@ -1,4 +1,4 @@
-# DMU-cs-course
+# 大连海事大学课程攻略
 
 [![stargazers](https://img.shields.io/github/stars/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)](https://github.com/Chi-Kai/DMU-cs-course/stargazers)
 [![contributors](https://img.shields.io/github/forks/Chi-Kai/DMU-cs-course.svg?style=for-the-badge)](https://github.com/Chi-Kai/DMU-cs-course/network/members)
