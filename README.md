@@ -1,6 +1,7 @@
 # 大连海事大学课程攻略
 
-[![](https://img.shields.io/github/stars/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-HelpT/stargazers)
+[![](https://img.shields.io/github/stars/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/stargazers)
+[![](https://img.shields.io/github/stars/ichont/FalcoVision.svg?style=flat)](https://github.com/ichont/FalcoVision/stargazers)
 [![](https://img.shields.io/github/forks/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/network/members)
 ![](https://img.shields.io/github/repo-size/ichont/DMU-Course-Help.svg?style=flat)
 [![](https://img.shields.io/github/contributors/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/graphs/contributors)
