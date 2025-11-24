@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/stars/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-HelpT/stargazers)
 [![](https://img.shields.io/github/forks/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/network/members)
-
+[](https://github.com/ichont/DMU-Course-Help/graphs/contributors)
 ![](https://img.shields.io/github/repo-size/ichont/DMU-Course-Help.svg?style=flat)
 [![pulls](https://img.shields.io/github/issues-pr-closed-raw/ichont/DMU-Course-Help.svg?style=flat)](https://github.com/ichont/DMU-Course-Help/pulls)
 
